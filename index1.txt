@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+
+    <title>Narrow Jumbotron Template for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../../css/editor.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="narrow-jumbotron.css" rel="stylesheet">
+  </head>
+
+  <body style="background-color: rgb(233, 236, 239);">
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm fixed-top" style="background-color: rgb(134, 139, 150);">
+      <div class="container" style="background-color: rgb(0, 123, 255); text-align: center;">
+        <a class="navbar-brand" href="#" style="float: left; text-align: left;">YOSEF SIBARANI</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon" style="text-align: right; float: right;"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav ms-auto">
+            <a class="nav-link active" aria-current="page" href="#home">Home</a>
+            <a class="nav-link" href="#Pendidikan">Pendidikan</a>
+            <a class="nav-link" href="#Jadwal Kuliah">Jadwal Kuliah</a>
+            <a class="nav-link" href="#Aktivitas">Aktivitas</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <!-- Akhir Navbar -->
+    <!-- Jumbotron -->
+    <section class="jumbotron text-center">
+      <img src="spider.jpg" alt="Yosef Sibarani" width="200" class="rounded-circle img-thumbnail">
+      <h1 class="display-4 ">Yosef Sibarani</h1>
+      <p class="lead">Informatika | H1D021026</p>
+      
+    </section>
+    <!-- Akhir Jumbotron -->
+    <!-- About -->
+    <section id="Pendidikan">
+      <div class="container">
+        <div class="row text-center mb-3">
+          <div class="col">
+            <h2 id="Pendidikan">Pendidikan</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col text-center" style="background-color: rgb(233, 236, 239);">
+            <p></p>
+            <p><span style="background-color: rgb(233, 236, 239);">TK Negeri Pelangi Kasih Siborongborong</span></p>
+            <p style="background-color: rgb(233, 236, 239);"><span style="background-color: rgb(233, 236, 239);">SD Negeri 173272 Siborongborong</span></p>
+            <p><span style="background-color: rgb(233, 236, 239);">SMP Negeri 1 Siborongborong</span></p>
+            <p><span style="background-color: rgb(233, 236, 239);">SMA Negeri 1 Siborongborong</span></p><p>Universitas Jenderal Soedirman</p>
+          </div>
+        </div>
+      </div>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" style="opacity: 0; line-height: 31px; width: 811px; height: 100px;">
+        <path fill="#e2edff" fill-opacity="1" d="M0,128L48,149.3C96,171,192,213,288,218.7C384,224,480,192,576,197.3C672,203,768,245,864,256C960,267,1056,245,1152,208C1248,171,1344,117,1392,90.7L1440,64L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" style="opacity: 0; line-height: 31px; width: 811px; height: 100px;">
+        <path fill="#e2edff" fill-opacity="1" d="M0,128L48,149.3C96,171,192,213,288,218.7C384,224,480,192,576,197.3C672,203,768,245,864,256C960,267,1056,245,1152,208C1248,171,1344,117,1392,90.7L1440,64L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
+      </svg></path>
+      </svg>
+    </section>
+    <!-- AKhir About -->
+
+<!-- Akhir Jumbotron -->
+<!-- About -->
+<section id="Jadwal Kuliah">
+<h2 class="text-center mb-3">Jadwal Mata Kuliah</h2><table class="table table-bordered text-center">
+    
+    <thead>
+      <tr>
+        <th scope="col">Hari</th>
+        <th scope="col">Jam</th>
+        <th scope="col">Mata Kuliah</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">Senin</th>
+        <td>08:50 - 10:35</td>
+        <td>Basis Data II</td>
+      </tr>
+      <tr>
+        <th scope="row"></th>
+        <td>11:30 - 12:25</td>
+        <td>E-Commerce</td>
+      </tr>
+      <tr>
+        <th scope="row"></th>
+        <td>13:00 - 15:40</td>
+        <td>Struktur Data</td>
+      </tr>
+      
+      
+      
+      
+      
+      
+      
+      <tr>
+        <th scope="row">Selasa</th>
+        <td>07:00 - 08:45</td>
+        <td>Probabilitas dan Statistika</td>
+      </tr>
+      <tr>
+        <th scope="row"></th>
+        <td>09:45 - 10:35</td>
+        <td>Praktikum Sistem Operasi</td>
+      </tr>
+      <tr>
+        <th scope="row"></th>
+        <td>10:40 - 12:25</td>
+        <td>Pancasila</td>
+      </tr>
+      <tr>
+        <th scope="row"></th>
+        <td>16:00 - 16:50</td>
+        <td>Praktikum Struktur Data</td>
+      </tr>
+      
+      
+      
+      
+      
+      
+      <tr>
+        <th scope="row">Rabu</th>
+        <td>09:45 - 12:25</td>
+        <td>Matematika Diskrit</td>
+      </tr>
+      <tr>
+        <th scope="row"></th>
+        <td>13:00 - 15:40</td>
+        <td>Sistem Operasi</td>
+      </tr>
+      
+      
+      
+      
+      
+      
+      
+      
+      <tr>
+        <th scope="row">Kamis</th>
+        <td>07.00 - 08;45</td>
+        <td>Jati Diri Unsoed</td>
+      </tr>
+      <tr>
+        <th scope="row"></th>
+        <td>08:50 - 10:35</td>
+        <td>Web Design</td>
+      </tr>
+      
+      
+      
+      
+      
+      
+      
+      
+      <tr>
+        <th scope="row">Jum'at</th>
+        <td style="font-weight: 700;">-</td>
+        <td style="font-weight: 700;">-</td>
+      </tr>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </tbody>
+  </table>
+</section>
+<section id="Aktivitas">
+  <div class="container">
+    <div class="row text-center mb-3">
+      <div class="col">
+        <h2>Aktivitas</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col text-center">
+        <p>OSIS SMA Negeri 1 Siborongborong</p>
+        <p>MPK SMA Negeri 1 Siborongborong</p>
+        <p>Anggota PMKT UNSOED</p>
+        
+        
+        
+      </div>
+    </div>
+  </div>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" style="opacity: 0; height: 100px; width: 812px;">
+    <path fill="#e2edff" fill-opacity="1" d="M0,128L48,149.3C96,171,192,213,288,218.7C384,224,480,192,576,197.3C672,203,768,245,864,256C960,267,1056,245,1152,208C1248,171,1344,117,1392,90.7L1440,64L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
+  </svg>
+    <!-- footer -->
+    <footer class="bg-primary text-white text-center">
+        <p style="background-color: rgb(199, 199, 199); text-align: center;">Created by <a href="https://www.instagram.com/yosef.s_/" class="text-white fw-bold">Yosef Sibarani</a></p>
+    </footer>
+    <!-- akhir footer -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+  </section></body>
+</html>

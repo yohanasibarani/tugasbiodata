@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+
+    <title>Narrow Jumbotron Template for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../../css/editor.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="narrow-jumbotron.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="container" style="background-color: rgb(233, 236, 239);">
+      <div class="header clearfix">
+        <nav>
+          <ul class="nav nav-pills float-right">
+            <li class="nav-item">
+              <a class="nav-link active" href="#" style="color: rgb(255, 255, 255); background-color: rgb(199, 199, 199);">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#" style="color: rgb(255, 255, 255); text-decoration-line: none; text-align: right;">Pendidikan</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#" style="color: rgb(255, 255, 255);">Jadwal Kuliah</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#" style="color: rgb(255, 255, 255);">Aktivitas</a>
+            </li>
+          </ul>
+        </nav>
+        <h3 class="text-muted" style="font-family: &quot;Comic Sans MS&quot;, cursive, sans-serif; background-color: rgb(199, 199, 199);"><b style="color: rgb(255, 255, 255);">BIODATA</b></h3>
+      </div>
+
+      <div class="jumbotron" style="text-align: center;"><img src="spider.jpg" height="128" width="128" style="" class="rounded">
+        <h1 class="display-3" contenteditable="true" spellcheckker="false" style="line-height: 76px; width: 642px; height: 79px; opacity: 0.9;">Yosef P. Sibarani</h1>
+        <p class="lead">Informatika | H1D021026</p>
+        <p></p>
+      </div><div class="jumbotron" style="text-align: center; letter-spacing: 0px; line-height: 44px;" contenteditable="true" spellcheckker="false"><h2><b style="font-weight: 600;">Pendidikan</b></h2><div class="form-group" style=""></div><ul class="list-group" style="">
+  
+  
+  
+</ul><div class="form-group" style=""></div><div class="form-group" style=""></div>
+        
+        
+        <p></p>
+      <div>TK Negeri Pelangi Kasih Siborongborong</div><div>SD Negeri 173272 Siborongborong</div><div>SMP Negeri 1 Siborongborong</div><div>SMA Negeri 1 Siborongborong</div><div>Universitas Jenderal Soedirman</div></div><div class="jumbotron" style="text-align: center; letter-spacing: 0px; line-height: 44px; font-weight: 600;" contenteditable="true" spellcheckker="false"><h2 style="font-weight: 600;">Jadwal Kuliah</h2><br><table class="table table-bordered Default table-striped" style="">		  <thead class="">			<tr>			  			  <th>Hari</th>			  <th>Jadwal Kuliah</th>			  <th>Nama Mata Kuliah</th>			</tr>		  </thead>		  <tbody>			<tr>			  <th scope="row">Senin</th>			  <td style="font-weight: 400;">8:50 - 10:35<br>10:40 - 12:25<br>13:00 - 15:40</td>			  <td style="font-weight: 400;">Basis Data II<br>E-Commerce<br>Struktur Data</td>			  			</tr>			<tr>			  <th scope="row">Selasa</th>			  <td style="font-weight: 400;">07:00 - 08:45<br>09:45 - 10:35<br>10:40 - 12:25<br>16:00 - 16:50</td>			  <td style="font-weight: 400;">Probabilitas dan Statistika<br>Praktikum Sistem Operasi<br>Pancasila<br>Praktikum Struktur Data</td>			  			</tr>			<tr style="font-weight: 400;">			  <th scope="row">Rabu<br></th>			  <td>09:45 - 12:25<br>13:00 - 15:40</td>			  <td>Matematika Diskrit<br>Sistem Operasi</td>			  			</tr>		  <tr style="font-weight: 400;">			  <th scope="row">Kamis<br></th>			  <td>07:00 - 08:45<br>08:50 - 10:35</td>			  <td>Jati Diri Unsoed<br>Web Design</td>			  			</tr><tr style="font-weight: 700;">			  <th scope="row">Jumat<br></th>			  <td>-</td>			  <td>-</td>			  			</tr></tbody>		</table></div><div class="jumbotron" style="text-align: center; letter-spacing: 0px; line-height: 44px; font-weight: 600;" contenteditable="true" spellcheckker="false"><h2>Aktivitas</h2><div><span style="font-weight: normal;">Osis SMA N 1 Siborongborong</span></div><div style="text-align: center;"><span style="font-weight: normal;">MPK SMA N 1 Siborongborong</span></div><div><span style="font-weight: normal;">Anggota PMKT UNSOED</span></div></div>
+
+      <div class="row marketing">
+        
+
+        
+      </div>
+
+      <footer class="bg-primary text-white text-center">
+        <p style="background-color: rgb(199, 199, 199); text-align: center;">Created by <a href="https://www.instagram.com/yosef.s_/" class="text-white fw-bold">Yosef Sibarani</a></p>
+      </footer>
+
+    </div> <!-- /container -->
+  
+
+</body>
+</html>
